@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+.idea
+Correct Inherintance Challenge 92.iml
